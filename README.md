@@ -1,0 +1,1 @@
+# Python_porject_Amlicon_analysis_for_SNP_detection
