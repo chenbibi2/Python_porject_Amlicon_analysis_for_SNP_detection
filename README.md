@@ -27,9 +27,11 @@ It creates a table listing all detected sequence differences and calculates the 
 Use Python 3.7 or higher
 How to download
 git clone https://github.com/chenbibi2/Python_porject_Amlicon_analysis_for_SNP_detection.git
+
 cd Python_porject_Amlicon_analysis_for_SNP_detection
 
 install the dependencies
+
 pip install -r requirements.txt
 
 Runing the program
