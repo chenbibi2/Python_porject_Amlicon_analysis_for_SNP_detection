@@ -1,4 +1,4 @@
-# Python_porject_Amlicon_analysis_for_SNP_detection
+# Amplicon_analysis_for_SNP_detection
 
 CRISPR is a powerful technology used for precise genetic engineering. It allows us to introduce deletions, insertions, or SNPs (single nucleotide polymorphisms) into the genome with high accuracy. 
 However, the efficiency is not always 100%, and various unintended outcomes may occur, such as unwanted insertions caused by NHEJ (non-homologous end joining).
